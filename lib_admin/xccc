@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Calligraffitti';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Calligraffitti'), local('Calligraffitti-Regular'), url(http://fonts.gstatic.com/s/calligraffitti/v7/vLVN2Y-z65rVu1R7lWdvyKMATE9hNx1o-nwq2GP8bHQ.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Rambla';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rambla'), local('Rambla-Regular'), url(http://fonts.gstatic.com/s/rambla/v4/0AvXfVhsw8_c6r3onmlo7g.woff2) format('woff2');
+}

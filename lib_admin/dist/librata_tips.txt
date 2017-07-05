@@ -1,0 +1,4 @@
+Counters for books, borrows and users are shown at the top of the dashboard.|| 
+Click on the Library name on the top-right of the dashboard to go back to default view.||
+You can backup your data anytime. Simply ckick Backup/Restore on the sidebar to get started.||
+Input a user's library number on the left search box and click the lens icon to get the details.
